@@ -1,0 +1,1 @@
+gcc hash-test.c -o hash-test.bin -Wall
